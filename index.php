@@ -1,8 +1,8 @@
 <?php
 
-echo "Hello World!\n" ;
+echo "Hello World! <br>" ;
 echo $_SERVER['SERVER_NAME'];
-echo "\n" ;
+echo "<br>" ;
 echo $_SERVER['HTTP_HOST'];
 
 ?>
