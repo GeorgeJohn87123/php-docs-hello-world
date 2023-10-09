@@ -1,6 +1,7 @@
 <?php
 
-echo "Hello World!";
-echo $_SERVER['SERVER_NAME'];
+echo "Hello World!\n" ;
+echo $_SERVER['SERVER_NAME']\n;
+echo $_SERVER['HTTP_HOST'];
 
 ?>
